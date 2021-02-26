@@ -1,0 +1,13 @@
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.AssemblyInfo.cs
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\bin\Debug\netcoreapp3.1\WorkBJA.exe
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\bin\Debug\netcoreapp3.1\WorkBJA.deps.json
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\bin\Debug\netcoreapp3.1\WorkBJA.runtimeconfig.json
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\bin\Debug\netcoreapp3.1\WorkBJA.runtimeconfig.dev.json
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\bin\Debug\netcoreapp3.1\WorkBJA.dll
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\bin\Debug\netcoreapp3.1\WorkBJA.pdb
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.dll
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.pdb
+C:\Users\rapha\source\repos\WorkBJA\WorkBJA\obj\Debug\netcoreapp3.1\WorkBJA.genruntimeconfig.cache
